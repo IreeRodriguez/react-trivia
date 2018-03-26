@@ -3,10 +3,12 @@ Small and fun trivia game with ten questions by category, type and difficulty, y
 
 ![sample](sample.png)
 
-![sample](sample2.png) ![sample](sample3.png)
-
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
+
+![sample](sample2.png) ![sample](sample3.png)
+
+
 
 ## Hosting
 
