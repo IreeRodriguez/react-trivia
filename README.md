@@ -1,10 +1,12 @@
 # Trivia
+Small and fun trivia game with ten questions by category, type and difficulty, your choice. Easy to play game, perfect for trivia lovers. Made with React and OpenTdb api.
 
 ![sample](sample.png)
 
 ![sample](sample2.png) ![sample](sample3.png)
 
-Trivia game questions by category, type and difficulty.
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 ## Hosting
 
