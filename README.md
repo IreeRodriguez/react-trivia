@@ -1,4 +1,5 @@
 # Trivia
+
 Small and fun trivia game with ten questions by category, type and difficulty, your choice. Easy to play game, perfect for trivia lovers. Made with React and OpenTdb api.
 
 ![image](https://raw.githubusercontent.com/bimiriya/react-trivia/master/sample.png)
@@ -6,11 +7,7 @@ Small and fun trivia game with ten questions by category, type and difficulty, y
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
-![sample](sample2.png) ![sample](sample3.png)
-
-
-
-## Hosting
+## Demo
 
 [Firebase](https://react-trivia.firebaseapp.com/)
 
